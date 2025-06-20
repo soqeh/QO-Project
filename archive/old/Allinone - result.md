@@ -1,0 +1,133 @@
+[100/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=12.2s
+[200/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=24.4s
+[300/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=36.7s
+[400/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=49.0s
+[500/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=61.3s
+[600/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=74.4s
+[700/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=87.6s
+[800/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=100.6s
+[900/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=113.4s
+[1000/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=126.0s
+[1100/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=138.8s
+[1200/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=151.4s
+[1300/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=163.7s
+[1400/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=176.0s
+[1500/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=188.4s
+[1600/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=200.7s
+[1700/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=213.0s
+[1800/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=225.4s
+[1900/10000] best L=0.3223  CKMerr=0.010  PMNSerr=0.282  Δt=238.3s
+[2000/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=251.1s
+[2100/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=264.1s
+[2200/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=277.3s
+[2300/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=290.7s
+[2400/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=303.2s
+[2500/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=315.7s
+[2600/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=328.6s
+[2700/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=340.9s
+[2800/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=353.3s
+[2900/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=365.7s
+[3000/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=378.0s
+[3100/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=390.4s
+[3200/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=402.7s
+[3300/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=414.9s
+[3400/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=427.5s
+[3500/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=439.8s
+[3600/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=452.2s
+[3700/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=464.6s
+[3800/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=477.2s
+[3900/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=489.6s
+[4000/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=502.0s
+[4100/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=514.3s
+[4200/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=526.6s
+[4300/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=538.9s
+[4400/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=552.2s
+[4500/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=564.6s
+[4600/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=577.4s
+[4700/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=590.5s
+[4800/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=604.0s
+[4900/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=616.9s
+[5000/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=629.6s
+[5100/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=642.7s
+[5200/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=655.6s
+[5300/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=668.6s
+[5400/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=681.4s
+[5500/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=693.9s
+[5600/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=706.4s
+[5700/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=718.7s
+[5800/10000] best L=0.3106  CKMerr=0.004  PMNSerr=0.280  Δt=731.5s
+[5900/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=744.0s
+[6000/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=756.5s
+[6100/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=769.2s
+[6200/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=782.1s
+[6300/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=794.8s
+[6400/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=807.1s
+[6500/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=819.5s
+[6600/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=832.2s
+[6700/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=845.5s
+[6800/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=860.0s
+[6900/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=874.3s
+[7000/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=886.7s
+[7100/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=899.3s
+[7200/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=911.8s
+[7300/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=924.6s
+[7400/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=937.0s
+[7500/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=949.2s
+[7600/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=961.8s
+[7700/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=974.2s
+[7800/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=987.8s
+[7900/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1001.1s
+[8000/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1014.2s
+[8100/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1027.7s
+[8200/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1040.6s
+[8300/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1053.1s
+[8400/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1066.0s
+[8500/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1079.7s
+[8600/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1092.4s
+[8700/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1105.3s
+[8800/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1117.9s
+[8900/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1130.4s
+[9000/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1142.9s
+[9100/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1155.7s
+[9200/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1168.2s
+[9300/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1181.2s
+[9400/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1194.3s
+[9500/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1206.7s
+[9600/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1219.3s
+[9700/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1232.0s
+[9800/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1244.9s
+[9900/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1257.7s
+[10000/10000] best L=0.3038  CKMerr=0.019  PMNSerr=0.280  Δt=1270.6s
+
+=== Monte‑Carlo completed ===  best loss = 0.30377387375350196
+
+--- Leave‑One‑Out Cross‑Validation ---
+  removed idx  0  pred.abs.err = 5.5059e-02
+  removed idx  1  pred.abs.err = 3.6482e-02
+  removed idx  2  pred.abs.err = 1.5793e-01
+  removed idx  3  pred.abs.err = 4.7007e-02
+  removed idx  4  pred.abs.err = 2.0841e-02
+  removed idx  5  pred.abs.err = 3.5221e-02
+  removed idx  6  pred.abs.err = 1.2022e-01
+  removed idx  7  pred.abs.err = 2.8451e-01
+  removed idx  8  pred.abs.err = 9.2547e-04
+  removed idx  9  pred.abs.err = 1.4359e-01
+  removed idx 10  pred.abs.err = 2.8688e-01
+  removed idx 11  pred.abs.err = 3.2426e-01
+  removed idx 12  pred.abs.err = 1.4779e-01
+  removed idx 13  pred.abs.err = 5.4765e-02
+  removed idx 14  pred.abs.err = 2.9443e-01
+  removed idx 15  pred.abs.err = 2.7390e-01
+  removed idx 16  pred.abs.err = 4.0632e-01
+  removed idx 17  pred.abs.err = 2.2237e-01
+  removed idx 18  pred.abs.err = 4.3629e-02
+  removed idx 19  pred.abs.err = 2.6046e-04
+  removed idx 20  pred.abs.err = 3.9819e-03
+  removed idx 21  pred.abs.err = 1.2617e+00
+  removed idx 22  pred.abs.err = 6.2336e-05
+  removed idx 23  pred.abs.err = 1.7196e-01
+  removed idx 24  pred.abs.err = 1.1252e+02
+  removed idx 25  pred.abs.err = 7.6464e-04
+  removed idx 26  pred.abs.err = 7.1414e-02
+  removed idx 27  pred.abs.err = 3.0052e+01
+RMS(pred err) = 22.011192958799906
