@@ -48,6 +48,7 @@ docker run -it qo python run_all.py
 ```markdown
 *Outputs will be saved as `result.json` and `scan_*.csv`, matching Figures 2 and 3 of the paper.*  
 Commit used for publication: `134e833`
+```
 
 ---
 
