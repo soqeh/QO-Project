@@ -33,7 +33,16 @@ pip install -r requirements.txt
 # run a demo notebook or script
 jupyter notebook notebooks/demo_extraction.ipynb
 ```
+## Reproducibility
 
+This repository accompanies the results presented in "[P3-H] Hypercharge" (2025). To reproduce the RG and Hessian pipeline outputs:
+
+```bash
+# build Docker image
+docker build -t qo .
+
+# run key pipeline
+docker run -it qo python run_all.py
 ---
 
 ## Disclaimer
