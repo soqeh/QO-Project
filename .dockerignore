@@ -4,3 +4,9 @@
 *.csv
 __pycache__/
 notebooks/
+.DS_Store
+*.log
+*.ipynb_checkpoints/
+*.egg-info/
+venv/
+.env
