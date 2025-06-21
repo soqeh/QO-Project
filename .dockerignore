@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+*.pkl
+*.csv
+__pycache__/
+notebooks/
