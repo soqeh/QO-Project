@@ -1,0 +1,23 @@
+Starting parallel processing on 16 CPU cores...
+Search range: k_i in [-8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+Total combinations to test: 410,338,673
+(This may take a significant amount of time)
+
+--- Search Complete ---
+{
+  "comment": "Anomaly-free AND physically viable (correct Q) integer solutions with gcd=1",
+  "tested_range": "k in [-8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8]",
+  "total_combinations_tested": 410338673,
+  "passed_count": 1,
+  "solutions": [
+    [
+      -3,
+      -3,
+      -6,
+      1,
+      1,
+      4,
+      -2
+    ]
+  ]
+}
